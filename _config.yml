@@ -11,19 +11,19 @@ url:
 owner:
   name:           Krzysiek Pachulski
   avatar:         avatar.jpg
-  bio:            "Game programmer."
+  bio:            "Game programmer, a representative of KNTG Polygon - students' society on gamedev at Warsaw University of Technology."
   email:          krzysztof.pachulski@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        daltostronic
   facebook:       daltostronic
   github:         daltostronic
-  stackexchange:  daltostronic
-  linkedin:       krzysztof-pachulski/82/71a/a55/pl
+  stackexchange:  
+  linkedin:       # krzysztof-pachulski/82/71a/a55/pl
   instagram:      
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +daltostronic
+  google_plus:    
 
 # Background image to be tiled on all pages
 background: 
