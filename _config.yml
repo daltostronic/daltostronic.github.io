@@ -3,9 +3,10 @@ description:      Yet another gamedev blog...
 disqus_shortname: daltostronicgithubio
 reading_time:     true
 words_per_minute: 200
+share: false
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:
+url: daltostronic.github.io
 
 # Owner/author information
 owner:
