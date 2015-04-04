@@ -1,6 +1,6 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: hpstrtheme
+title:            blog.daltostronic
+description:      Yet another gamedev blog...
+disqus_shortname: daltostronicgithubio
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
@@ -9,33 +9,33 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  name:           Krzysiek Pachulski
+  avatar:         https://avatars2.githubusercontent.com/u/1428890?v=3&s=460
+  bio:            "Game programming learner, a representative of KNTG Polygon - students' society on gamedev at Warsaw University of Technology."
+  email:          krzysztof.pachulski@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
+  twitter:        daltostronic
+  facebook:       daltostronic
+  github:         daltostronic
+  stackexchange:  daltostronic
+  linkedin:       krzysztof-pachulski/82/71a/a55/pl
   instagram:      
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:    +daltostronic
 
 # Background image to be tiled on all pages
 background: 
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics:   UA-61554509-1
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/Warsaw
 future:      true
 highlighter: pygments
 markdown:    kramdown
